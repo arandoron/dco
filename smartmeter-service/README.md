@@ -1,7 +1,3 @@
-# NOTE
-
-Extra extensions: rest-jaxb, rest-jackson, websockets-next
-
 # smartmeter-service
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.

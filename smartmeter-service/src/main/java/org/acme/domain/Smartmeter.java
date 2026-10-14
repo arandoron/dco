@@ -1,7 +1,7 @@
 package org.acme.domain;
 
 /**
- * Smatermeter
+ * Smartmeter
  */
 public record Smartmeter(
     String smartmeterId,
